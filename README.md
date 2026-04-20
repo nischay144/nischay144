@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nischay2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nischay2004" height="30" width="40" /></a>
+<a href="https://twitter.com/nischay2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nischay2004" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/nischayjaiswal144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nischayjaiswal144" height="30" width="40" /></a>
 <a href="https://fb.com/nischayjaiswal144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nischayjaiswal144" height="30" width="40" /></a>
 <a href="https://instagram.com/nischay_jaiswal_144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nischay_jaiswal_144" height="30" width="40" /></a>
